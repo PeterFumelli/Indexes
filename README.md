@@ -2,7 +2,7 @@
 
 ### Задание 1
 
-![alt text](https://github.com/PeterFumelli/SQL.1/blob/main/img/1.png)
+![alt text](https://github.com/PeterFumelli/Indexes/blob/main/img/1.png)
 
 ### Задание 2
 
